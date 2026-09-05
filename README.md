@@ -52,7 +52,3 @@ Run: python ECU_Cinema_Booking_System.py
 3. Add food & drinks to a running cart
 4. Review the invoice, optionally apply a promo code
 5. Confirm payment — the booking is saved to the database and a ticket is generated
-
-## 👩‍💻 Author
-Nourhan Hamed
-Computer & Information Systems Student | Cybersecurity & Networking
